@@ -6,5 +6,5 @@
 3. Перейти в Project Structure (Ctrl + Shift + Alt + S)
 4. Перейти в libraries и добавить lwgjl-3.2 (включить Classes и Native Library Locations)
 5. Перейти в Modules-Dependencies и отметить lwgjl-3.2
-6. Создать конфигурацию, в которой исполняемым файлом будет scr/main/java/Game.java
+6. Создать конфигурацию, в которой исполняемым файлом будет src/main/java/Game.java
 7. Запустить (Shift - F10) 
